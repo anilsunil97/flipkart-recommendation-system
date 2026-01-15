@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,price,rating,num_reviews,discount,stock
+PROD0001,Apple Football,Sports,Apple,24709.46,3.4,370,50,167
+PROD0002,HP Action Figure,Toys,HP,18293.37,4.4,1143,30,311
+PROD0003,Puma Iron,Home & Kitchen,Puma,37574.59,3.3,368,20,213
+PROD0004,Apple Building Blocks,Toys,Apple,31607.64,4.8,2741,50,378
+PROD0005,Levi's Doll,Toys,Levi's,46043.38,4.1,1794,5,44
+PROD0006,Samsung Gym Bag,Sports,Samsung,28525.57,4.8,2374,50,76
+PROD0007,Levi's Watch,Fashion,Levi's,2409.6,4.2,346,5,203
+PROD0008,Puma Puzzle,Toys,Puma,49413.17,3.0,4417,25,423
+PROD0009,Puma Yoga Mat,Sports,Puma,9639.26,3.3,1647,10,53
+PROD0010,LG Face Cream,Beauty,LG,34494.9,4.4,481,40,28
+PROD0011,LG Face Cream,Beauty,LG,26038.78,4.9,717,10,449
+PROD0012,LG Cookware Set,Home & Kitchen,LG,15511.84,4.7,1966,50,457
+PROD0013,Dell Football,Sports,Dell,18046.46,3.9,1686,15,382
+PROD0014,HP Self-Help Book,Books,HP,21579.93,3.4,2674,25,447
+PROD0015,Apple Doll,Toys,Apple,24686.64,4.5,1920,40,57
+PROD0016,LG Puzzle,Toys,LG,42747.42,4.4,907,30,298
+PROD0017,Dell Perfume,Beauty,Dell,6515.56,3.2,3775,40,119
+PROD0018,Samsung Building Blocks,Toys,Samsung,30135.7,5.0,3434,30,494
+PROD0019,Apple Football,Sports,Apple,13692.65,4.4,4529,40,208
+PROD0020,Nike Fiction Novel,Books,Nike,41184.69,4.8,3921,15,20
+PROD0021,LG Vacuum Cleaner,Home & Kitchen,LG,25771.08,4.0,1652,40,239
+PROD0022,Dell Gym Bag,Sports,Dell,39595.32,3.5,315,0,187
+PROD0023,Puma Action Figure,Toys,Puma,31330.35,4.9,630,10,389
+PROD0024,Dell Headphones,Electronics,Dell,16955.66,4.2,4958,5,235
+PROD0025,Apple Action Figure,Toys,Apple,3540.68,4.4,2718,5,146
+PROD0026,Dell Fiction Novel,Books,Dell,6355.78,3.0,2835,10,14
+PROD0027,Sony Iron,Home & Kitchen,Sony,32537.73,4.4,4614,25,270
+PROD0028,Dell Doll,Toys,Dell,43192.2,3.4,4085,40,436
+PROD0029,Sony Cricket Bat,Sports,Sony,19773.36,3.3,2440,10,46
+PROD0030,Adidas Face Wash,Beauty,Adidas,5057.04,4.8,3759,25,414
+PROD0031,Adidas Self-Help Book,Books,Adidas,18244.78,3.3,4331,10,425
+PROD0032,Adidas Laptop,Electronics,Adidas,10779.31,4.3,1648,20,400
+PROD0033,Samsung Mixer,Home & Kitchen,Samsung,17070.3,3.5,3085,40,194
+PROD0034,Sony Yoga Mat,Sports,Sony,42270.45,3.9,3004,10,70
+PROD0035,Samsung Dumbbells,Sports,Samsung,8619.17,3.6,3473,20,474
+PROD0036,Sony Perfume,Beauty,Sony,24919.86,3.6,4458,15,425
+PROD0037,LG Camera,Electronics,LG,31723.37,4.9,1212,0,228
+PROD0038,Samsung Yoga Mat,Sports,Samsung,6170.36,4.5,3827,15,1
+PROD0039,Sony Cricket Bat,Sports,Sony,15985.99,4.9,2984,40,368
+PROD0040,Adidas Biography,Books,Adidas,22252.17,4.8,2546,30,458
+PROD0041,Sony Perfume,Beauty,Sony,1682.15,4.0,4510,15,78
+PROD0042,Puma Speaker,Electronics,Puma,35263.15,3.2,2776,20,355
+PROD0043,Adidas T-Shirt,Fashion,Adidas,45665.54,4.1,4003,50,368
+PROD0044,Levi's Dumbbells,Sports,Levi's,28221.33,5.0,1114,10,167
+PROD0045,Sony Shoes,Fashion,Sony,7838.55,4.8,1647,30,128
+PROD0046,Dell Science Book,Books,Dell,3610.18,3.7,1644,0,446
+PROD0047,LG Cricket Bat,Sports,LG,35065.22,3.1,4614,25,480
+PROD0048,Dell Curtains,Home & Kitchen,Dell,35130.07,3.9,4522,20,436
+PROD0049,Sony T-Shirt,Fashion,Sony,26163.81,5.0,2394,40,266
+PROD0050,Nike Building Blocks,Toys,Nike,48585.92,3.7,3487,10,110
+PROD0051,Samsung Science Book,Books,Samsung,13727.35,3.1,2873,25,99
+PROD0052,Apple Football,Sports,Apple,28491.02,3.2,3009,50,122
+PROD0053,Puma Speaker,Electronics,Puma,48534.17,4.4,4197,50,78
+PROD0054,Sony Hair Oil,Beauty,Sony,42977.81,3.3,3967,0,50
+PROD0055,Levi's Smart Watch,Electronics,Levi's,38487.97,3.3,859,40,29
+PROD0056,LG Lipstick,Beauty,LG,19576.71,4.1,2273,20,4
+PROD0057,HP Watch,Fashion,HP,3789.0,3.0,4648,30,259
+PROD0058,Sony Dress,Fashion,Sony,8058.21,3.2,504,0,246
+PROD0059,Samsung Science Book,Books,Samsung,34271.33,5.0,3220,30,143
+PROD0060,LG Football,Sports,LG,18777.52,3.6,3320,50,410
+PROD0061,Nike Yoga Mat,Sports,Nike,46951.84,4.9,736,30,436
+PROD0062,Puma Hair Oil,Beauty,Puma,38225.79,3.5,2319,15,183
+PROD0063,HP Face Cream,Beauty,HP,2238.38,4.5,4977,20,130
+PROD0064,Nike Laptop,Electronics,Nike,23687.16,4.3,4103,0,350
+PROD0065,Sony Cookbook,Books,Sony,31864.49,3.7,4562,50,203
+PROD0066,Samsung Shampoo,Beauty,Samsung,34520.89,3.0,4307,20,319
+PROD0067,Puma Iron,Home & Kitchen,Puma,40007.08,4.8,3369,30,100
+PROD0068,Sony Self-Help Book,Books,Sony,46970.3,4.7,1204,0,394
+PROD0069,HP Smart Watch,Electronics,HP,12771.78,3.6,935,30,136
+PROD0070,LG Lipstick,Beauty,LG,40243.71,4.7,3970,20,328
+PROD0071,Apple Lipstick,Beauty,Apple,27462.8,4.4,3849,50,192
+PROD0072,Sony Iron,Home & Kitchen,Sony,1620.51,3.0,4395,30,208
+PROD0073,Adidas Yoga Mat,Sports,Adidas,43733.96,3.1,4533,15,481
+PROD0074,HP Smartphone,Electronics,HP,2157.22,4.3,4600,30,101
+PROD0075,Sony Biography,Books,Sony,24381.58,4.0,1363,0,138
+PROD0076,Samsung Fiction Novel,Books,Samsung,49559.97,4.5,2286,20,412
+PROD0077,LG Cricket Bat,Sports,LG,9644.33,3.2,3196,25,222
+PROD0078,LG Perfume,Beauty,LG,14206.71,4.2,4143,5,93
+PROD0079,LG Mixer,Home & Kitchen,LG,31410.55,4.6,4847,10,165
+PROD0080,Levi's Building Blocks,Toys,Levi's,8431.02,3.9,1678,5,230
+PROD0081,Nike Action Figure,Toys,Nike,34600.41,4.0,1458,10,346
+PROD0082,Nike Bedsheet,Home & Kitchen,Nike,36299.41,4.0,890,10,134
+PROD0083,Sony Puzzle,Toys,Sony,10096.86,4.1,1894,50,401
+PROD0084,Apple Sneakers,Fashion,Apple,46771.19,3.0,2985,40,230
+PROD0085,Apple Jacket,Fashion,Apple,14008.2,3.9,3201,10,164
+PROD0086,Adidas Vacuum Cleaner,Home & Kitchen,Adidas,31611.88,3.2,2866,30,77
+PROD0087,Nike Board Game,Toys,Nike,47735.05,4.0,1277,0,34
+PROD0088,LG Cookbook,Books,LG,14261.57,4.2,1895,25,285
+PROD0089,Apple Action Figure,Toys,Apple,33514.61,3.4,1325,5,465
+PROD0090,Puma Puzzle,Toys,Puma,1405.11,4.7,2526,5,294
+PROD0091,Apple Running Shoes,Sports,Apple,46719.52,3.3,2998,5,268
+PROD0092,Sony Science Book,Books,Sony,18104.76,4.6,555,5,14
+PROD0093,Puma Vacuum Cleaner,Home & Kitchen,Puma,8738.0,3.8,2207,15,481
+PROD0094,Sony Jacket,Fashion,Sony,40873.32,4.4,2521,30,485
+PROD0095,Dell Biography,Books,Dell,13971.95,3.9,3574,40,315
+PROD0096,Levi's Face Wash,Beauty,Levi's,39545.59,4.6,2937,10,26
+PROD0097,HP Doll,Toys,HP,26685.94,3.2,763,10,399
+PROD0098,Adidas Headphones,Electronics,Adidas,45542.51,4.7,2909,0,377
+PROD0099,Levi's Fiction Novel,Books,Levi's,5062.12,3.7,205,0,50
+PROD0100,Puma Football,Sports,Puma,49827.54,4.4,2689,0,1
+PROD0101,Apple Bedsheet,Home & Kitchen,Apple,41635.53,4.5,1438,20,241
+PROD0102,HP Smartphone,Electronics,HP,34284.57,4.4,1127,25,300
+PROD0103,Puma Smart Watch,Electronics,Puma,45200.1,4.8,4049,5,447
+PROD0104,Nike Cricket Bat,Sports,Nike,37213.94,3.1,4803,25,31
+PROD0105,Levi's Speaker,Electronics,Levi's,19141.81,4.1,4778,50,480
+PROD0106,Puma Self-Help Book,Books,Puma,11187.82,4.5,383,20,486
+PROD0107,Nike Mixer,Home & Kitchen,Nike,28494.57,4.9,4738,10,400
+PROD0108,Puma Doll,Toys,Puma,33281.82,4.9,1511,10,189
+PROD0109,Puma Cricket Bat,Sports,Puma,39431.71,4.4,1333,20,454
+PROD0110,Apple Face Wash,Beauty,Apple,44091.87,4.3,2537,5,24
+PROD0111,Levi's Action Figure,Toys,Levi's,48810.91,3.1,1517,50,73
+PROD0112,Apple Watch,Fashion,Apple,48994.94,4.4,4517,15,460
+PROD0113,HP Cookware Set,Home & Kitchen,HP,44065.73,4.0,3287,30,251
+PROD0114,Adidas Cookbook,Books,Adidas,22644.93,3.8,2975,40,474
+PROD0115,Adidas Perfume,Beauty,Adidas,33318.96,4.5,1260,50,125
+PROD0116,Sony Fiction Novel,Books,Sony,9208.66,4.7,3740,30,362
+PROD0117,Adidas Cookbook,Books,Adidas,16804.37,4.1,2654,5,113
+PROD0118,Sony Headphones,Electronics,Sony,45063.83,3.3,1308,50,121
+PROD0119,Nike Hair Oil,Beauty,Nike,42189.57,3.6,4507,40,437
+PROD0120,HP Gym Bag,Sports,HP,46339.19,4.1,3268,30,233
+PROD0121,HP Cookware Set,Home & Kitchen,HP,16279.79,3.6,4187,40,165
+PROD0122,HP Board Game,Toys,HP,49659.5,3.1,3533,25,55
+PROD0123,Apple Dumbbells,Sports,Apple,17976.11,3.2,1328,40,324
+PROD0124,Adidas Camera,Electronics,Adidas,33119.46,3.3,581,20,282
+PROD0125,Sony Curtains,Home & Kitchen,Sony,21460.26,4.4,529,40,380
+PROD0126,LG Perfume,Beauty,LG,12378.11,4.4,1075,30,211
+PROD0127,LG Science Book,Books,LG,47170.09,3.7,3534,5,424
+PROD0128,Apple Cookbook,Books,Apple,40764.28,4.1,2624,5,279
+PROD0129,LG Mixer,Home & Kitchen,LG,5605.07,3.1,4707,30,161
+PROD0130,Nike Yoga Mat,Sports,Nike,22425.54,4.2,3295,15,261
+PROD0131,Samsung Building Blocks,Toys,Samsung,48318.3,4.5,842,15,405
+PROD0132,Nike Fiction Novel,Books,Nike,2575.54,3.9,3039,10,145
+PROD0133,Samsung Sneakers,Fashion,Samsung,31401.04,3.4,3327,15,94
+PROD0134,Dell Smartphone,Electronics,Dell,33185.14,3.6,457,10,298
+PROD0135,Samsung Sneakers,Fashion,Samsung,40702.28,4.3,3912,30,480
+PROD0136,Samsung Puzzle,Toys,Samsung,47481.12,3.6,3381,10,399
+PROD0137,LG Shampoo,Beauty,LG,47954.12,3.2,4025,5,109
+PROD0138,Sony Biography,Books,Sony,38931.68,4.9,2709,40,498
+PROD0139,Adidas Football,Sports,Adidas,48058.0,4.5,4279,30,28
+PROD0140,Dell Curtains,Home & Kitchen,Dell,9474.59,3.2,1202,30,442
+PROD0141,HP Watch,Fashion,HP,33113.96,4.0,2218,30,83
+PROD0142,LG Face Cream,Beauty,LG,42611.0,3.6,375,25,402
+PROD0143,Apple Mixer,Home & Kitchen,Apple,39500.59,3.5,3738,0,398
+PROD0144,Dell Face Cream,Beauty,Dell,7555.98,3.6,2416,40,167
+PROD0145,Adidas Hair Oil,Beauty,Adidas,18731.45,3.6,3546,50,295
+PROD0146,Dell Smart Watch,Electronics,Dell,12523.52,4.9,3537,5,22
+PROD0147,Sony Iron,Home & Kitchen,Sony,22983.04,3.4,1153,5,442
+PROD0148,Sony Cookbook,Books,Sony,982.51,4.5,2149,20,265
+PROD0149,Nike Dress,Fashion,Nike,34076.0,4.9,770,5,453
+PROD0150,Dell Self-Help Book,Books,Dell,45374.32,4.4,277,50,45
+PROD0151,Dell Iron,Home & Kitchen,Dell,11144.0,3.6,3995,40,186
+PROD0152,Puma Fiction Novel,Books,Puma,47593.43,4.3,3665,15,40
+PROD0153,Levi's Iron,Home & Kitchen,Levi's,37949.22,4.2,773,30,43
+PROD0154,Puma Cookbook,Books,Puma,14476.59,3.4,4845,5,113
+PROD0155,Nike Action Figure,Toys,Nike,47297.72,4.5,2480,40,8
+PROD0156,Adidas Face Cream,Beauty,Adidas,33592.22,3.8,2639,50,51
+PROD0157,Dell Mixer,Home & Kitchen,Dell,18852.04,3.9,882,15,336
+PROD0158,Samsung Remote Car,Toys,Samsung,44307.92,4.8,1710,30,146
+PROD0159,Levi's Yoga Mat,Sports,Levi's,8679.71,4.2,1395,30,12
+PROD0160,Nike Cookware Set,Home & Kitchen,Nike,38323.85,3.1,2522,0,480
+PROD0161,HP Curtains,Home & Kitchen,HP,37623.56,3.1,4165,50,189
+PROD0162,Levi's Action Figure,Toys,Levi's,17642.7,3.1,4357,25,233
+PROD0163,Levi's Self-Help Book,Books,Levi's,31744.86,3.8,430,0,21
+PROD0164,Adidas Cricket Bat,Sports,Adidas,49840.62,4.0,4267,0,36
+PROD0165,Samsung Remote Car,Toys,Samsung,18946.84,3.2,1792,30,372
+PROD0166,Dell Building Blocks,Toys,Dell,29822.95,3.5,122,10,48
+PROD0167,Nike Building Blocks,Toys,Nike,11525.17,3.3,3770,10,255
+PROD0168,Apple Dress,Fashion,Apple,39884.9,3.8,782,25,372
+PROD0169,Samsung Smartphone,Electronics,Samsung,33125.2,3.4,3947,25,440
+PROD0170,Puma Fiction Novel,Books,Puma,41347.9,3.6,2486,10,286
+PROD0171,Levi's Biography,Books,Levi's,33870.24,3.4,4730,5,259
+PROD0172,Nike Lipstick,Beauty,Nike,29592.77,4.0,1941,15,65
+PROD0173,HP Running Shoes,Sports,HP,45623.0,4.2,4085,20,64
+PROD0174,Sony Yoga Mat,Sports,Sony,23848.03,4.7,3972,15,133
+PROD0175,Levi's Cookbook,Books,Levi's,14276.07,3.6,3228,10,17
+PROD0176,Levi's Smartphone,Electronics,Levi's,44238.44,3.9,3205,50,376
+PROD0177,HP Science Book,Books,HP,30474.54,3.2,609,25,453
+PROD0178,Apple Face Cream,Beauty,Apple,10673.56,3.3,1225,30,178
+PROD0179,HP Doll,Toys,HP,7515.83,4.7,1112,50,301
+PROD0180,Nike Remote Car,Toys,Nike,47540.59,3.3,2387,15,312
+PROD0181,LG Shoes,Fashion,LG,4491.23,4.6,4236,25,166
+PROD0182,Adidas Cookbook,Books,Adidas,37498.12,4.5,3704,30,92
+PROD0183,Dell Fiction Novel,Books,Dell,48873.21,4.1,2121,0,91
+PROD0184,Apple Gym Bag,Sports,Apple,42706.9,4.2,3267,20,484
+PROD0185,Sony Gym Bag,Sports,Sony,39940.91,4.3,4775,20,101
+PROD0186,Nike Shoes,Fashion,Nike,41635.78,3.2,2387,40,226
+PROD0187,Nike Smart Watch,Electronics,Nike,45561.32,3.4,4076,50,459
+PROD0188,Adidas Shoes,Fashion,Adidas,15038.15,3.5,1507,0,283
+PROD0189,Sony Lipstick,Beauty,Sony,49775.24,4.9,4684,25,111
+PROD0190,Nike Football,Sports,Nike,36066.93,3.9,2974,10,429
+PROD0191,Puma Fiction Novel,Books,Puma,37392.94,4.1,1409,20,127
+PROD0192,Levi's Gym Bag,Sports,Levi's,25205.02,3.6,3210,10,163
+PROD0193,Apple Perfume,Beauty,Apple,7681.84,4.6,4995,20,446
+PROD0194,Samsung T-Shirt,Fashion,Samsung,18823.66,4.9,4412,5,210
+PROD0195,Nike Jacket,Fashion,Nike,48886.22,3.9,4026,40,468
+PROD0196,Nike Watch,Fashion,Nike,27994.39,3.4,183,20,142
+PROD0197,HP Football,Sports,HP,27247.47,4.4,4204,15,129
+PROD0198,LG Mixer,Home & Kitchen,LG,3265.49,3.0,3927,20,267
+PROD0199,Puma Watch,Fashion,Puma,42367.43,4.1,3049,40,290
+PROD0200,Samsung Smart Watch,Electronics,Samsung,27443.07,4.8,2615,40,77
+PROD0201,Nike Dress,Fashion,Nike,16660.53,3.6,758,10,115
+PROD0202,Apple Dumbbells,Sports,Apple,31737.28,4.3,4532,5,91
+PROD0203,Adidas Yoga Mat,Sports,Adidas,38809.22,3.4,4659,0,379
+PROD0204,Levi's Lipstick,Beauty,Levi's,2293.71,4.6,3969,10,459
+PROD0205,Levi's Bedsheet,Home & Kitchen,Levi's,42404.04,4.5,3609,25,225
+PROD0206,Samsung Fiction Novel,Books,Samsung,9487.18,3.2,1814,0,184
+PROD0207,Adidas Hair Oil,Beauty,Adidas,16768.82,4.6,3415,20,460
+PROD0208,HP Curtains,Home & Kitchen,HP,40578.83,3.1,3186,10,352
+PROD0209,Nike Biography,Books,Nike,3116.24,3.2,74,15,397
+PROD0210,Dell Science Book,Books,Dell,9197.49,3.1,2804,20,213
+PROD0211,Apple Board Game,Toys,Apple,43452.38,5.0,1027,10,282
+PROD0212,LG Smart Watch,Electronics,LG,12028.24,4.1,4227,20,102
+PROD0213,Adidas Camera,Electronics,Adidas,38833.97,4.6,1096,30,101
+PROD0214,Nike Lipstick,Beauty,Nike,20965.57,4.8,3365,30,191
+PROD0215,LG Watch,Fashion,LG,11434.57,4.0,2961,50,81
+PROD0216,Dell Laptop,Electronics,Dell,16127.66,5.0,4972,50,278
+PROD0217,HP T-Shirt,Fashion,HP,10816.49,4.1,3134,10,356
+PROD0218,Levi's Cookware Set,Home & Kitchen,Levi's,12037.31,4.8,2302,25,28
+PROD0219,Apple Iron,Home & Kitchen,Apple,49874.7,4.7,3707,30,357
+PROD0220,Apple Action Figure,Toys,Apple,842.63,3.5,744,30,37
+PROD0221,Adidas Laptop,Electronics,Adidas,5455.91,4.5,2523,10,278
+PROD0222,Sony Vacuum Cleaner,Home & Kitchen,Sony,26705.12,4.2,4257,10,161
+PROD0223,LG Cookware Set,Home & Kitchen,LG,16006.93,3.8,3998,15,245
+PROD0224,Puma Headphones,Electronics,Puma,2814.47,3.1,1852,15,47
+PROD0225,Nike Smartphone,Electronics,Nike,28348.04,4.9,856,5,97
+PROD0226,Adidas Dumbbells,Sports,Adidas,10478.98,4.4,110,5,271
+PROD0227,Levi's Jeans,Fashion,Levi's,25671.95,3.1,2666,0,342
+PROD0228,Dell Puzzle,Toys,Dell,26850.21,4.7,491,50,299
+PROD0229,Samsung Cookbook,Books,Samsung,19498.71,3.5,3542,30,61
+PROD0230,LG Self-Help Book,Books,LG,10520.7,4.8,1969,30,134
+PROD0231,Adidas Self-Help Book,Books,Adidas,36442.98,3.3,2294,50,77
+PROD0232,Adidas Face Cream,Beauty,Adidas,11204.71,3.0,4423,0,134
+PROD0233,Apple Biography,Books,Apple,32072.52,4.4,235,40,358
+PROD0234,HP Science Book,Books,HP,21712.33,4.0,4527,40,198
+PROD0235,Dell Laptop,Electronics,Dell,10446.54,3.4,1872,25,99
+PROD0236,Levi's Hair Oil,Beauty,Levi's,22275.65,3.8,3419,0,393
+PROD0237,Dell Doll,Toys,Dell,3660.56,3.9,4777,15,209
+PROD0238,Samsung Mixer,Home & Kitchen,Samsung,10335.46,4.8,4373,15,236
+PROD0239,Sony Shampoo,Beauty,Sony,39237.2,4.1,3614,5,476
+PROD0240,Samsung Vacuum Cleaner,Home & Kitchen,Samsung,12787.05,4.5,662,10,418
+PROD0241,Samsung T-Shirt,Fashion,Samsung,4340.86,3.3,1018,0,175
+PROD0242,Sony Laptop,Electronics,Sony,1507.7,4.2,3484,40,27
+PROD0243,Apple Vacuum Cleaner,Home & Kitchen,Apple,2586.56,4.4,2991,40,402
+PROD0244,Dell Jeans,Fashion,Dell,23117.55,3.4,1949,20,421
+PROD0245,Sony Smart Watch,Electronics,Sony,32830.17,3.6,3225,15,112
+PROD0246,HP Remote Car,Toys,HP,27902.78,4.8,2130,40,352
+PROD0247,Nike Yoga Mat,Sports,Nike,22431.08,3.8,141,50,107
+PROD0248,Nike Cricket Bat,Sports,Nike,24508.03,3.5,2775,25,41
+PROD0249,HP Tablet,Electronics,HP,24844.25,3.8,4952,20,437
+PROD0250,Adidas Yoga Mat,Sports,Adidas,4598.03,3.6,1347,15,85
+PROD0251,Adidas Puzzle,Toys,Adidas,20863.29,3.6,3838,50,129
+PROD0252,Adidas T-Shirt,Fashion,Adidas,7324.08,4.0,4207,20,228
+PROD0253,Nike Puzzle,Toys,Nike,23019.38,3.6,1497,40,55
+PROD0254,LG Sneakers,Fashion,LG,11401.2,4.7,1235,50,494
+PROD0255,HP Hair Oil,Beauty,HP,12630.48,4.1,3755,5,465
+PROD0256,Puma Laptop,Electronics,Puma,19187.99,4.7,3112,40,157
+PROD0257,Sony Fiction Novel,Books,Sony,40423.16,3.3,2760,50,182
+PROD0258,Adidas Hair Oil,Beauty,Adidas,2904.3,3.6,3309,25,401
+PROD0259,Apple Face Wash,Beauty,Apple,5750.42,4.3,431,25,367
+PROD0260,Levi's Jacket,Fashion,Levi's,28604.55,3.8,2048,15,380
+PROD0261,Samsung Shoes,Fashion,Samsung,9189.95,4.8,32,30,353
+PROD0262,LG Doll,Toys,LG,26960.15,4.7,177,0,433
+PROD0263,HP Lipstick,Beauty,HP,45138.68,3.4,4722,50,395
+PROD0264,Puma Headphones,Electronics,Puma,16029.6,4.7,3123,5,77
+PROD0265,Adidas Action Figure,Toys,Adidas,12327.34,3.1,4361,30,11
+PROD0266,Apple Self-Help Book,Books,Apple,17074.85,4.0,1568,30,242
+PROD0267,Samsung Iron,Home & Kitchen,Samsung,31559.47,4.6,3702,5,47
+PROD0268,Levi's Shampoo,Beauty,Levi's,38187.72,3.8,2050,0,375
+PROD0269,Levi's Curtains,Home & Kitchen,Levi's,36021.2,3.3,3459,15,263
+PROD0270,Samsung Self-Help Book,Books,Samsung,9003.34,5.0,2520,30,118
+PROD0271,Sony Building Blocks,Toys,Sony,47047.44,4.6,2856,5,341
+PROD0272,Samsung T-Shirt,Fashion,Samsung,32979.2,4.6,2739,15,126
+PROD0273,LG Tablet,Electronics,LG,6418.63,4.3,1721,15,305
+PROD0274,Samsung Smartphone,Electronics,Samsung,13475.23,4.9,1507,50,236
+PROD0275,Samsung Speaker,Electronics,Samsung,38033.46,4.4,515,0,52
+PROD0276,Apple Bedsheet,Home & Kitchen,Apple,30856.27,3.5,1655,30,265
+PROD0277,Levi's Yoga Mat,Sports,Levi's,29972.56,4.7,3240,40,73
+PROD0278,HP Action Figure,Toys,HP,2155.29,4.7,881,25,79
+PROD0279,Apple Curtains,Home & Kitchen,Apple,20230.87,3.5,1671,10,260
+PROD0280,Dell Laptop,Electronics,Dell,2284.58,3.6,3384,20,357
+PROD0281,Dell Shampoo,Beauty,Dell,32512.25,3.5,1876,30,342
+PROD0282,Nike Speaker,Electronics,Nike,31146.36,4.5,2102,50,358
+PROD0283,Sony Cookbook,Books,Sony,23588.72,4.8,1373,50,429
+PROD0284,LG Bedsheet,Home & Kitchen,LG,38356.24,3.7,3685,30,82
+PROD0285,Levi's Shampoo,Beauty,Levi's,39764.34,3.5,4535,0,300
+PROD0286,Nike Cricket Bat,Sports,Nike,10644.93,3.1,1854,10,461
+PROD0287,Sony Iron,Home & Kitchen,Sony,35361.76,3.2,3712,40,190
+PROD0288,Puma Football,Sports,Puma,3286.5,4.1,183,10,59
+PROD0289,Nike Puzzle,Toys,Nike,37376.72,3.2,3975,0,0
+PROD0290,LG Shoes,Fashion,LG,14128.17,4.5,212,10,424
+PROD0291,Sony Science Book,Books,Sony,27888.94,5.0,783,40,39
+PROD0292,LG Tablet,Electronics,LG,49261.77,3.5,3774,5,66
+PROD0293,LG Perfume,Beauty,LG,34522.2,4.7,374,25,482
+PROD0294,HP Perfume,Beauty,HP,21512.24,3.6,208,0,120
+PROD0295,Adidas Vacuum Cleaner,Home & Kitchen,Adidas,11895.62,3.7,1948,30,85
+PROD0296,Levi's Headphones,Electronics,Levi's,46981.02,3.4,4735,20,339
+PROD0297,Nike Jacket,Fashion,Nike,25458.66,3.7,2649,50,24
+PROD0298,Adidas Football,Sports,Adidas,43957.13,4.1,1268,5,85
+PROD0299,Dell Remote Car,Toys,Dell,35658.78,4.7,4078,0,142
+PROD0300,Nike Yoga Mat,Sports,Nike,21493.96,3.8,4002,15,259
+PROD0301,Dell Mixer,Home & Kitchen,Dell,20451.98,3.1,181,20,490
+PROD0302,HP Watch,Fashion,HP,48161.43,4.6,3257,40,299
+PROD0303,Puma Face Wash,Beauty,Puma,32492.52,3.5,3568,15,339
+PROD0304,Adidas Dumbbells,Sports,Adidas,21036.6,4.3,2384,30,471
+PROD0305,Puma Sneakers,Fashion,Puma,891.5,4.5,1188,25,370
+PROD0306,Samsung Cricket Bat,Sports,Samsung,25088.44,4.4,4050,20,388
+PROD0307,Sony Gym Bag,Sports,Sony,25525.42,3.5,3351,30,465
+PROD0308,Apple Tablet,Electronics,Apple,21765.03,4.8,799,40,423
+PROD0309,Puma Doll,Toys,Puma,3573.16,4.7,912,0,156
+PROD0310,Adidas Mixer,Home & Kitchen,Adidas,28330.36,4.7,1982,10,275
+PROD0311,Sony Gym Bag,Sports,Sony,29398.6,4.4,1220,0,173
+PROD0312,Levi's Shampoo,Beauty,Levi's,48275.52,4.0,2040,50,354
+PROD0313,Adidas Smart Watch,Electronics,Adidas,44157.09,4.7,1072,50,288
+PROD0314,Dell Self-Help Book,Books,Dell,37034.71,3.8,355,5,191
+PROD0315,Samsung Curtains,Home & Kitchen,Samsung,49470.11,4.8,2366,25,414
+PROD0316,Dell Science Book,Books,Dell,20258.64,5.0,4427,10,291
+PROD0317,Adidas Speaker,Electronics,Adidas,20999.32,3.2,2328,20,27
+PROD0318,Adidas Building Blocks,Toys,Adidas,42383.28,3.3,973,15,427
+PROD0319,HP Shampoo,Beauty,HP,42802.42,4.6,2282,5,475
+PROD0320,HP Self-Help Book,Books,HP,4577.28,3.1,3037,40,49
+PROD0321,HP Speaker,Electronics,HP,4815.31,5.0,2592,30,376
+PROD0322,Dell Self-Help Book,Books,Dell,14567.52,3.3,4003,5,59
+PROD0323,Levi's Remote Car,Toys,Levi's,19727.9,3.6,4971,50,473
+PROD0324,Samsung Laptop,Electronics,Samsung,21179.16,4.6,768,15,478
+PROD0325,Puma Jacket,Fashion,Puma,24225.3,3.9,3485,25,460
+PROD0326,Apple Self-Help Book,Books,Apple,15940.37,3.8,217,0,374
+PROD0327,Dell T-Shirt,Fashion,Dell,36669.87,3.8,4012,20,209
+PROD0328,Levi's Lipstick,Beauty,Levi's,46920.53,3.7,4571,15,396
+PROD0329,Nike Dress,Fashion,Nike,41816.11,3.2,64,10,360
+PROD0330,Puma Dress,Fashion,Puma,22022.18,4.8,631,0,324
+PROD0331,HP Perfume,Beauty,HP,5216.36,3.1,1059,25,214
+PROD0332,Adidas Shampoo,Beauty,Adidas,24589.72,3.6,153,50,310
+PROD0333,HP Bedsheet,Home & Kitchen,HP,41426.42,4.8,1894,10,121
+PROD0334,Adidas Lipstick,Beauty,Adidas,39404.64,4.9,3764,50,423
+PROD0335,Apple Puzzle,Toys,Apple,27868.35,4.1,580,25,441
+PROD0336,Nike Biography,Books,Nike,39759.68,4.8,4028,50,405
+PROD0337,Nike Perfume,Beauty,Nike,34147.23,3.0,3301,30,5
+PROD0338,Puma Running Shoes,Sports,Puma,26228.8,4.0,202,20,339
+PROD0339,LG Dumbbells,Sports,LG,6925.66,3.9,1192,30,426
+PROD0340,Apple Tablet,Electronics,Apple,8137.17,3.7,3992,0,246
+PROD0341,Levi's Mixer,Home & Kitchen,Levi's,7966.03,4.7,4659,50,151
+PROD0342,Puma Face Wash,Beauty,Puma,18300.7,3.9,2764,15,159
+PROD0343,Nike Face Cream,Beauty,Nike,4410.7,3.7,3251,15,71
+PROD0344,Samsung Headphones,Electronics,Samsung,31020.51,3.4,560,30,406
+PROD0345,Sony Dumbbells,Sports,Sony,9128.23,4.3,3006,50,341
+PROD0346,Adidas Curtains,Home & Kitchen,Adidas,19687.61,3.7,2582,10,141
+PROD0347,Samsung Mixer,Home & Kitchen,Samsung,7535.01,4.5,687,50,132
+PROD0348,Puma Remote Car,Toys,Puma,46563.01,3.6,2676,25,455
+PROD0349,Adidas Headphones,Electronics,Adidas,23116.54,3.8,3368,30,415
+PROD0350,Adidas Fiction Novel,Books,Adidas,12390.6,3.5,1827,40,182
+PROD0351,Samsung Mixer,Home & Kitchen,Samsung,35273.01,3.4,2279,25,377
+PROD0352,Levi's Puzzle,Toys,Levi's,32599.84,4.4,895,10,402
+PROD0353,LG Curtains,Home & Kitchen,LG,5317.65,3.5,673,10,199
+PROD0354,Dell Mixer,Home & Kitchen,Dell,1910.42,4.3,2132,30,417
+PROD0355,HP Face Cream,Beauty,HP,40862.52,3.6,4407,40,277
+PROD0356,Levi's Self-Help Book,Books,Levi's,38050.36,4.2,141,50,275
+PROD0357,LG Jeans,Fashion,LG,29249.61,4.7,3345,25,21
+PROD0358,LG Cricket Bat,Sports,LG,3511.38,4.8,3944,20,463
+PROD0359,Sony Puzzle,Toys,Sony,30344.43,4.9,3755,50,163
+PROD0360,Samsung Fiction Novel,Books,Samsung,15068.69,3.9,3671,15,421
+PROD0361,Dell Face Cream,Beauty,Dell,26169.31,4.2,2264,0,338
+PROD0362,Nike Vacuum Cleaner,Home & Kitchen,Nike,7578.99,3.5,3265,0,219
+PROD0363,Dell Smartphone,Electronics,Dell,14063.82,4.2,2450,0,285
+PROD0364,Nike Jeans,Fashion,Nike,47559.99,4.4,3489,15,451
+PROD0365,Levi's Camera,Electronics,Levi's,31864.75,4.6,1459,25,78
+PROD0366,Apple Dumbbells,Sports,Apple,42498.83,4.9,1342,50,261
+PROD0367,Dell Action Figure,Toys,Dell,18381.64,4.0,717,25,460
+PROD0368,Samsung Biography,Books,Samsung,26099.6,3.8,4668,15,321
+PROD0369,LG Doll,Toys,LG,35889.79,4.0,1030,15,161
+PROD0370,LG Cookware Set,Home & Kitchen,LG,33550.25,3.4,3787,10,474
+PROD0371,Nike Cookware Set,Home & Kitchen,Nike,44326.79,4.1,1446,30,374
+PROD0372,LG Laptop,Electronics,LG,36458.54,4.3,3878,50,238
+PROD0373,Apple Tablet,Electronics,Apple,23032.17,3.8,174,0,333
+PROD0374,Apple Mixer,Home & Kitchen,Apple,40559.38,3.1,4222,5,353
+PROD0375,Apple Lipstick,Beauty,Apple,12219.1,3.5,3414,25,308
+PROD0376,Apple Cricket Bat,Sports,Apple,4427.56,4.8,4290,0,141
+PROD0377,Dell Jeans,Fashion,Dell,24855.11,3.7,3635,0,162
+PROD0378,Levi's Iron,Home & Kitchen,Levi's,3381.07,3.7,406,20,430
+PROD0379,LG Cricket Bat,Sports,LG,13818.24,3.0,4878,15,57
+PROD0380,Levi's Watch,Fashion,Levi's,33245.56,4.8,752,20,329
+PROD0381,Samsung Watch,Fashion,Samsung,26284.14,4.3,4369,50,478
+PROD0382,Sony Headphones,Electronics,Sony,33354.0,4.5,4887,25,157
+PROD0383,Apple Science Book,Books,Apple,3494.0,3.8,3506,25,201
+PROD0384,HP Smartphone,Electronics,HP,25799.69,3.2,296,30,432
+PROD0385,Dell Speaker,Electronics,Dell,9751.76,4.3,1161,50,97
+PROD0386,Levi's Bedsheet,Home & Kitchen,Levi's,1674.53,4.7,3651,40,335
+PROD0387,Samsung Tablet,Electronics,Samsung,23495.22,4.3,1017,5,250
+PROD0388,HP Shampoo,Beauty,HP,5169.5,4.8,3098,20,19
+PROD0389,Sony Smartphone,Electronics,Sony,37000.6,3.7,1379,30,112
+PROD0390,Apple Tablet,Electronics,Apple,41106.06,3.6,3747,5,95
+PROD0391,Sony Hair Oil,Beauty,Sony,7796.84,4.6,3413,5,88
+PROD0392,Samsung Football,Sports,Samsung,23870.76,4.7,721,40,196
+PROD0393,Puma Shoes,Fashion,Puma,47167.96,4.5,238,50,170
+PROD0394,Levi's Smartphone,Electronics,Levi's,1107.73,3.8,825,40,271
+PROD0395,HP Headphones,Electronics,HP,29168.51,4.9,2793,20,70
+PROD0396,Adidas Science Book,Books,Adidas,37890.98,3.6,1761,50,432
+PROD0397,Apple Hair Oil,Beauty,Apple,31992.13,4.6,4379,50,158
+PROD0398,Sony Camera,Electronics,Sony,38319.74,3.1,963,20,436
+PROD0399,Dell Jeans,Fashion,Dell,22346.44,3.7,4474,40,105
+PROD0400,Sony Vacuum Cleaner,Home & Kitchen,Sony,42081.3,4.0,3517,25,151
+PROD0401,Levi's Face Wash,Beauty,Levi's,1584.47,4.6,4079,0,356
+PROD0402,Puma Remote Car,Toys,Puma,4520.07,4.4,2715,20,190
+PROD0403,Samsung Self-Help Book,Books,Samsung,48740.14,3.7,2099,50,365
+PROD0404,Puma Football,Sports,Puma,45172.96,4.8,837,0,261
+PROD0405,Samsung Running Shoes,Sports,Samsung,44339.91,4.7,3881,20,243
+PROD0406,HP Cookware Set,Home & Kitchen,HP,19917.26,4.4,4880,5,79
+PROD0407,Sony Biography,Books,Sony,25941.24,4.8,370,30,322
+PROD0408,HP Camera,Electronics,HP,20747.69,3.3,4659,5,205
+PROD0409,Apple Laptop,Electronics,Apple,12638.26,4.8,2581,10,182
+PROD0410,Adidas Puzzle,Toys,Adidas,10780.49,4.7,3948,50,166
+PROD0411,HP Smartphone,Electronics,HP,10236.22,3.8,529,40,250
+PROD0412,Samsung Perfume,Beauty,Samsung,31408.57,3.8,2895,50,245
+PROD0413,LG Self-Help Book,Books,LG,32542.49,4.9,712,50,86
+PROD0414,Levi's Biography,Books,Levi's,47197.18,3.4,2687,15,278
+PROD0415,Samsung T-Shirt,Fashion,Samsung,41754.98,3.8,4024,15,156
+PROD0416,Samsung Bedsheet,Home & Kitchen,Samsung,28540.23,4.1,3393,0,123
+PROD0417,Levi's Self-Help Book,Books,Levi's,14412.89,5.0,2933,5,367
+PROD0418,HP Face Wash,Beauty,HP,28049.52,3.8,2721,50,334
+PROD0419,HP Cricket Bat,Sports,HP,31304.99,4.6,790,0,101
+PROD0420,Puma Hair Oil,Beauty,Puma,20279.31,3.6,1488,40,259
+PROD0421,Apple Self-Help Book,Books,Apple,26931.09,3.0,177,50,283
+PROD0422,Dell Building Blocks,Toys,Dell,22982.83,3.1,3744,25,378
+PROD0423,Sony Headphones,Electronics,Sony,12524.43,3.0,2459,10,456
+PROD0424,Sony Dress,Fashion,Sony,23936.28,3.4,4956,10,141
+PROD0425,Sony Fiction Novel,Books,Sony,44430.41,4.9,4608,20,104
+PROD0426,Levi's Jeans,Fashion,Levi's,47725.48,3.8,2770,5,321
+PROD0427,Samsung Building Blocks,Toys,Samsung,35582.5,3.9,353,20,390
+PROD0428,Samsung Iron,Home & Kitchen,Samsung,25397.99,4.3,737,15,52
+PROD0429,Nike Vacuum Cleaner,Home & Kitchen,Nike,16656.57,3.2,3570,5,116
+PROD0430,Dell Cricket Bat,Sports,Dell,8641.8,4.6,2131,20,46
+PROD0431,Puma Doll,Toys,Puma,28046.75,3.0,4809,5,353
+PROD0432,Samsung Camera,Electronics,Samsung,22098.14,4.8,2203,15,149
+PROD0433,Levi's Board Game,Toys,Levi's,30439.99,3.1,2991,0,67
+PROD0434,Samsung Yoga Mat,Sports,Samsung,6235.79,4.8,3681,40,101
+PROD0435,Nike Remote Car,Toys,Nike,4323.47,3.3,4333,20,435
+PROD0436,Levi's Shampoo,Beauty,Levi's,35357.59,4.0,1541,0,368
+PROD0437,Sony Smart Watch,Electronics,Sony,32909.33,3.1,139,15,175
+PROD0438,HP Science Book,Books,HP,23195.83,4.3,753,40,31
+PROD0439,Nike Jacket,Fashion,Nike,15378.69,3.6,197,30,302
+PROD0440,Apple Lipstick,Beauty,Apple,37543.45,4.0,1614,20,313
+PROD0441,LG Speaker,Electronics,LG,43406.85,4.3,4140,0,267
+PROD0442,Puma Face Cream,Beauty,Puma,10798.25,4.5,407,0,133
+PROD0443,Adidas Puzzle,Toys,Adidas,33979.82,4.9,1235,25,297
+PROD0444,Nike Mixer,Home & Kitchen,Nike,40917.09,3.8,4001,30,312
+PROD0445,Sony Remote Car,Toys,Sony,45078.42,4.9,2977,40,252
+PROD0446,HP Board Game,Toys,HP,2431.31,3.6,3290,15,182
+PROD0447,Puma Sneakers,Fashion,Puma,2061.65,4.2,4551,10,167
+PROD0448,LG Smart Watch,Electronics,LG,49633.13,4.7,349,10,393
+PROD0449,HP Biography,Books,HP,49350.74,4.0,4123,0,98
+PROD0450,LG Perfume,Beauty,LG,30551.42,4.6,3809,30,158
+PROD0451,Adidas Puzzle,Toys,Adidas,28731.7,3.7,401,40,305
+PROD0452,Adidas Vacuum Cleaner,Home & Kitchen,Adidas,9511.59,4.7,960,5,7
+PROD0453,Apple Iron,Home & Kitchen,Apple,32513.34,3.0,4113,15,405
+PROD0454,Samsung Gym Bag,Sports,Samsung,15535.4,3.1,1593,30,387
+PROD0455,Dell Lipstick,Beauty,Dell,43155.18,4.3,2001,10,373
+PROD0456,Apple Face Cream,Beauty,Apple,30560.14,4.3,2883,5,253
+PROD0457,Sony Bedsheet,Home & Kitchen,Sony,19885.65,4.5,3383,20,498
+PROD0458,Puma Doll,Toys,Puma,1112.21,5.0,4043,25,461
+PROD0459,Dell Mixer,Home & Kitchen,Dell,33366.78,4.5,3209,5,307
+PROD0460,LG Remote Car,Toys,LG,22882.08,3.8,3360,40,148
+PROD0461,Levi's Face Cream,Beauty,Levi's,10625.06,5.0,2238,20,227
+PROD0462,Adidas Vacuum Cleaner,Home & Kitchen,Adidas,7559.51,3.5,4639,0,368
+PROD0463,HP Face Wash,Beauty,HP,46066.02,4.0,2457,15,373
+PROD0464,Nike Dress,Fashion,Nike,1177.86,3.7,1830,25,446
+PROD0465,Apple Cookware Set,Home & Kitchen,Apple,13560.11,4.1,4131,15,330
+PROD0466,Levi's Face Wash,Beauty,Levi's,14253.32,3.1,4755,0,469
+PROD0467,Adidas Building Blocks,Toys,Adidas,34901.26,4.0,3904,50,412
+PROD0468,Nike Gym Bag,Sports,Nike,19039.09,3.5,2617,30,198
+PROD0469,LG Puzzle,Toys,LG,14153.24,3.5,3615,0,162
+PROD0470,Samsung Face Cream,Beauty,Samsung,9919.74,3.7,1024,50,112
+PROD0471,LG Jeans,Fashion,LG,27732.77,3.5,4437,20,89
+PROD0472,HP Vacuum Cleaner,Home & Kitchen,HP,36675.3,4.7,624,30,261
+PROD0473,Dell T-Shirt,Fashion,Dell,42205.99,4.7,1205,40,8
+PROD0474,Samsung Cookbook,Books,Samsung,49100.08,4.5,2509,25,449
+PROD0475,LG Bedsheet,Home & Kitchen,LG,35360.45,3.8,3902,40,418
+PROD0476,HP Self-Help Book,Books,HP,12814.48,3.7,3592,10,81
+PROD0477,Dell Yoga Mat,Sports,Dell,46526.85,4.2,1096,30,1
+PROD0478,HP Speaker,Electronics,HP,13345.65,3.5,2405,0,336
+PROD0479,Sony Watch,Fashion,Sony,23258.11,4.8,1005,20,255
+PROD0480,Adidas Self-Help Book,Books,Adidas,15657.94,4.5,2536,5,61
+PROD0481,HP Jacket,Fashion,HP,3695.48,3.0,2093,25,312
+PROD0482,Samsung Science Book,Books,Samsung,17748.98,4.8,2009,30,35
+PROD0483,Nike Bedsheet,Home & Kitchen,Nike,19681.01,4.2,2839,10,161
+PROD0484,LG Science Book,Books,LG,47727.82,4.4,1781,15,197
+PROD0485,Sony Curtains,Home & Kitchen,Sony,5479.12,3.8,44,30,291
+PROD0486,HP Perfume,Beauty,HP,39599.2,4.6,4626,5,191
+PROD0487,Adidas Puzzle,Toys,Adidas,6356.79,3.4,1391,50,3
+PROD0488,Levi's Laptop,Electronics,Levi's,22895.29,4.9,2748,40,468
+PROD0489,Adidas Laptop,Electronics,Adidas,19578.1,3.4,4574,25,243
+PROD0490,Nike Headphones,Electronics,Nike,38309.69,5.0,2886,50,446
+PROD0491,Levi's Running Shoes,Sports,Levi's,10870.94,4.0,2387,20,33
+PROD0492,Puma Building Blocks,Toys,Puma,27386.12,4.3,1918,10,80
+PROD0493,LG Science Book,Books,LG,11340.79,3.4,4015,30,279
+PROD0494,Dell Smartphone,Electronics,Dell,33525.02,3.1,3152,10,333
+PROD0495,Dell Camera,Electronics,Dell,3605.54,3.5,4322,10,96
+PROD0496,Sony Smart Watch,Electronics,Sony,35740.41,4.2,4084,50,133
+PROD0497,Adidas Yoga Mat,Sports,Adidas,49871.91,3.8,932,25,483
+PROD0498,Apple Shampoo,Beauty,Apple,23439.96,4.5,4440,40,75
+PROD0499,Sony Dumbbells,Sports,Sony,34543.84,4.5,2392,5,271
+PROD0500,Apple Face Cream,Beauty,Apple,45652.65,3.5,1878,50,136
